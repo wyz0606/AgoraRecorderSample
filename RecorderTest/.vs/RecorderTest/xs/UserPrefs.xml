@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{6F0217F9-F4B6-6E6F-15CC-712D1CCBB2FC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/AgoraTest.cs">
+    <Files>
+      <File FileName="Assets/Scripts/VideoRecorder.cs" Line="13" Column="56" />
+      <File FileName="Assets/Scripts/AgoraTest.cs" Line="76" Column="23" />
+      <File FileName="Assets/Scripts/AgoraInterface.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7d13d633-2284-493f-9e7c-3c81b17e1bb7" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
