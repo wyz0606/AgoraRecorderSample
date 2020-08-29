@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{6F0217F9-F4B6-6E6F-15CC-712D1CCBB2FC}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/AgoraTest.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/AgoraInterface.cs">
     <Files>
       <File FileName="Assets/Scripts/VideoRecorder.cs" Line="13" Column="56" />
       <File FileName="Assets/Scripts/AgoraTest.cs" Line="76" Column="23" />
